@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Salih Hayat 👋
 
-<!--
-**salih-x-tech/salih-x-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student  
+💻 Learning Full Stack Web Development  
+🤖 Interested in AI and Creative Technology  
+🚀 Currently building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- MySQL
+- Git & GitHub
+
+---
+
+## 📌 Current Project
+Smart Campus Portal
+
+---
+
+## 🎯 Goals
+- Become a professional software engineer
+- Build AI-powered applications
+- Learn modern web technologies
+- Contribute to open source
