@@ -206,6 +206,37 @@ const salih = {
 
 ---
 
+### 💼 [BizFlow](https://github.com/salih-x-tech/bizflow) &mdash; Full-Stack Business Management Workspace
+
+A multi-business workspace for managing customers, products, inventory, orders and invoices, with owner and staff access controls.
+
+<a href="https://github.com/salih-x-tech/bizflow">
+  <img src="https://raw.githubusercontent.com/salih-x-tech/bizflow/main/docs/screenshots/dashboard.jpg" alt="BizFlow dashboard showing revenue, recent orders and inventory alerts with local QA demonstration data" width="100%" />
+</a>
+
+<sub>Application screenshot from the local QA workspace using demonstration records.</sub>
+
+**Tech Stack:**
+`Next.js 16` &nbsp; `React 19` &nbsp; `TypeScript` &nbsp; `Tailwind CSS 4` &nbsp; `MongoDB` &nbsp; `Mongoose` &nbsp; `Cloudinary` &nbsp; `Vercel`
+
+**Features:**
+
+- 🏢 Multiple business workspaces with configurable staff permissions
+- 📦 Product catalogs, image management, stock adjustments and low-stock alerts
+- 🧾 Order completion with stock updates and invoice creation in a database transaction
+- 📊 Revenue dashboard, reports and audit history
+- 👤 Account profiles, staff invitations and session-based authentication
+
+**Status:** ✅ Deployed on Vercel · Authenticated production acceptance checks ongoing
+
+[![Live App](https://img.shields.io/badge/Live%20App-Open%20BizFlow-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bizflow-kappa.vercel.app)
+&nbsp;
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/salih-x-tech/bizflow)
+&nbsp;
+[![Screenshots](https://img.shields.io/badge/Screenshots-Explore%20the%20App-6366F1?style=for-the-badge)](https://github.com/salih-x-tech/bizflow#a-look-inside)
+
+---
+
 ### 🌐 [Portfolio v2](https://github.com/salih-x-tech/portfolio-v2) &mdash; Modern Full-Stack 3D Portfolio
 
 A full-stack personal portfolio built with the latest Next.js App Router architecture, featuring a 3D interactive experience, secure admin dashboard, and dynamic project management system.
